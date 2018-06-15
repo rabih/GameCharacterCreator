@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GameCharacterCreatorV2</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="strength_label">Strength</string>
+    <string name="intellect_label">Intellect</string>
+    <string name="wisdom_label">Wisdom</string>
+    <string name="dexterity_label">Dexterity</string>
+</resources>
